@@ -3,6 +3,10 @@
 Additional scripts are directly available in Cyclone 3DR as Favorite scripts under the Script group of the ribbon.
 This page contains other sample scripts.
 
+## Youtube channel
+
+Take a tour our dedicated Youtube playlist [Cyclone 3DR Scripts](https://youtube.com/playlist?list=PLcGbqWxL0TSco97IMZsQ-CFdilobfMC00&feature=shared) to get a better idea on scripting capabilities.
+
 # Download Scripts
 
 All scripts can be download in a single [zip archive](https://github.com/Cyclone3DR/Scripts/archive/master.zip).
@@ -12,8 +16,8 @@ All scripts can be download in a single [zip archive](https://github.com/Cyclone
 We welcome user-made scripts ☺️. Check the [COMMUNITY SCRIPTS](<./COMMUNITY SCRIPTS/>) subpage for more details.
 
 # About Cyclone 3DR
-Leica Cyclone 3DR is a seamless extension of the Cyclone product family which works hand in hand to take users from field data collection with Cyclone FIELD 360 through registration in Cyclone REGISTER 360 and deliverable creation in Cyclone 3DR.
 
-Cyclone 3DR fuses Leica JetStream technology for centralised, full-scale point cloud management with automated point cloud analysis and modelling into one simple workflow-based software with tailored tools for the surveying, construction and inspection fields. Where most software will focus on a single workflow to create a specialised deliverable, Cyclone 3DR includes a range of adaptable tools for inspection and meshing that can be leveraged to create an assortment of 3D deliverables and reports.
+Leica Cyclone 3DR is a powerful software solution that transforms point cloud data into accessible 3D models and actionable deliverables, leveraging automation and AI classification tools. 
+Where most software will focus on a single workflow to create a specialised deliverable, Cyclone 3DR includes a range of adaptable tools for inspection, modelling and meshing that can be leveraged to create an assortment of 3D deliverables and reports.
 
-Based upon the simple design of the next-generation Cyclone family, Cyclone 3DR allows both new and experienced users to move from import through analysis and publishing intuitively and simply. By automating common tasks, customers can reduce unexpected project delays and quickly deliver actionable information to clients.
+More information on [Leica Cyclone 3DR](https://leica-geosystems.com/products/laser-scanners/software/leica-cyclone/leica-cyclone-3dr).

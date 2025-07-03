@@ -4,6 +4,8 @@ This script generates an ASCII raster from a point cloud.
 
 To use it, open the script editor and load Raster.js.
 
+[![Watch the video](https://img.youtube.com/vi/XtV_A1Jyvlo/0.jpg)](https://youtu.be/XtV_A1Jyvlo?feature=shared)
+
 
 # HOW TO USE IT
 Launch the script, set the parameters, click the point cloud and give 3 points to define the grid position and orientation. => Make sure 1 cloud is visible before launching the script

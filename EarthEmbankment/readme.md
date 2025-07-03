@@ -2,6 +2,8 @@
 This script provides a functionality to draw embankments.
 To use it, open the script editor and load EarthEmbankment.js.
 
+[![Watch the video](https://img.youtube.com/vi/mGEVB6gMLCs/0.jpg)](https://youtu.be/mGEVB6gMLCs?feature=shared)
+
 # HOW TO USE IT
 The algorithm uses the clicked polyline, the clicked mesh and the given slope to compute the earth embankment => Make sure 1 polyline and 1 mesh, at least, are visible before launching the script. Note the earth embankment will be drawn on the right side of the polyline.
 

@@ -2,6 +2,8 @@
 This script provides a functionality to separate a point cloud by box, then export those boxes to the disk.
 To use it, open the script editor and load SeparateCloudByBox.js.
 
+[![Watch the video](https://img.youtube.com/vi/sW-aaPpF6xo/0.jpg)](https://youtu.be/sW-aaPpF6xo?feature=shared)
+
 # HOW TO USE IT
 A single point cloud must be selected before launching the script. It can be a standard or a CloudWorx (LGSx) point cloud.
 Optionally, a limit box can be selected to delimit the area to be extracted. 

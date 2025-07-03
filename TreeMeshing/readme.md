@@ -4,6 +4,8 @@ This script provides a functionality to mesh trees in Cyclone 3DR.
 
 To use it, open the script editor and load TreeMeshing.js.
 
+[![Watch the video](https://img.youtube.com/vi/P_PmiFuQIEU/0.jpg)](https://youtu.be/P_PmiFuQIEU?feature=shared)
+
 
 # HOW TO USE IT
 The algorithm uses the selected cloud to mesh it using this tree meshing strategy! => Make sure only 1 cloud is selected before launching the script
