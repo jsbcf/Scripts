@@ -1,0 +1,2 @@
+*.lgsx filter=lfs diff=lfs merge=lfs -text
+*.3dr filter=lfs diff=lfs merge=lfs -text
